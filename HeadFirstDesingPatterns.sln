@@ -1,9 +1,21 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadFirstDesignPatterns.Chapter01", "src\Chapter01\HeadFirstDesignPatterns.Chapter01\HeadFirstDesignPatterns.Chapter01.csproj", "{596E5761-5717-4D1A-ADBF-0135F46D8D1C}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{596E5761-5717-4D1A-ADBF-0135F46D8D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{596E5761-5717-4D1A-ADBF-0135F46D8D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{596E5761-5717-4D1A-ADBF-0135F46D8D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{596E5761-5717-4D1A-ADBF-0135F46D8D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
