@@ -1,6 +1,6 @@
-﻿namespace HeadFirstDesignPatterns.Chapter01.SolucaoErrada01;
+﻿namespace HeadFirstDesignPatterns.Chapter01.WrongWay;
 
-public class RubberDuck : Pato
+public class RubberDuck : Duck
 {
     public override void Display()
     {

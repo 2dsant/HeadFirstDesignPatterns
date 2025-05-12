@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadFirstDesignPatterns.Chapter01", "src\Chapter01\HeadFirstDesignPatterns.Chapter01\HeadFirstDesignPatterns.Chapter01.csproj", "{596E5761-5717-4D1A-ADBF-0135F46D8D1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeadFirstDesignPatterns.Chapter02", "src\HeadFirstDesignPatterns.Chapter02\HeadFirstDesignPatterns.Chapter02.csproj", "{62555A73-7CB0-4117-BB6E-860817A2F614}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{596E5761-5717-4D1A-ADBF-0135F46D8D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{596E5761-5717-4D1A-ADBF-0135F46D8D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{596E5761-5717-4D1A-ADBF-0135F46D8D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62555A73-7CB0-4117-BB6E-860817A2F614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62555A73-7CB0-4117-BB6E-860817A2F614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62555A73-7CB0-4117-BB6E-860817A2F614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62555A73-7CB0-4117-BB6E-860817A2F614}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
